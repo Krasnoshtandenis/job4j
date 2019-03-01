@@ -1,4 +1,4 @@
-package ru.parsentev;
+package ru.Krasnoshtandenis;
 
 public class Calculate {
        public String echo(String value) {

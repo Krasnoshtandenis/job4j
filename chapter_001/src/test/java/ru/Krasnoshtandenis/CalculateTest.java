@@ -1,4 +1,4 @@
-package ru.parsentev;
+package ru.Krasnoshtandenis;
 
 import org.junit.Test;
 import static org.hamcrest.core.Is.is;
